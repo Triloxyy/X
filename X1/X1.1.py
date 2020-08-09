@@ -28,4 +28,4 @@ elif (a == "dörtgen" or a == "Dörtgen"):
         print("Dörtgen")
 
 else:
-    print("Anlayamadım")
+    print("Lütfen geçerli bir değer giriniz!")
